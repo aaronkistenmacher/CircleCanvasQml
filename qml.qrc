@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CircleCanvas.qml</file>
+        <file>CircleCanvas.js</file>
+        <file>Circle.qml</file>
+    </qresource>
+</RCC>
